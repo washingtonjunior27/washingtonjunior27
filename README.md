@@ -1,11 +1,11 @@
 ## Olá! 👋 Meu nome é Washington Júnior
 
-<div align="center">
-  <a href="https://github.com/washingtonjunior27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonjunior27&layout=compact&langs_count=7&theme=merko"/>
-</div>
+# Sistemas de Informação - Data Science, Web Developer.
   
- ##
+- 🌱 Estudando Power BI, SQL, Python.
+- 📫 E-mail para contato: washjunior4444@gmail.com
+- 📄 <a href="https://www.linkedin.com/in/washington-junior-bb1540245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/washington-junior-bb1540245/" height="30" width="40" /></a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,9 +13,7 @@
    <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 </div>
 
 ##
-
-- 🌱 Estudando JavaScript e PHP
-- 📫 E-mail para contato: washjunior4444@gmail.com
