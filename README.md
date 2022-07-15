@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Meu nome é Washington Júnior</h1>
 
-<h3 align="center">Sistemas de Informação - Data Science, Web Developer.</h3>
+<h3 align="center">Sistemas de Informação - Business Intelligence, Data Science, Web Developer.</h3>
   
 - 🌱 Estudando Power BI, SQL, Python.
 - 📫 E-mail para contato: washjunior4444@gmail.com
