@@ -10,7 +10,6 @@
 <h3 align="left">Midias Sociais</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/washington-junior-bb1540245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/washington-junior-bb1540245/" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/washington.junior_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@washington.junior_" height="30" width="40" /></a>
 </p>
 
 <h3 align="Left">Tecnologias</h3>
