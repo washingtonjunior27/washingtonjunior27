@@ -8,9 +8,10 @@
 - 🧾 Portfolio Power BI: https://sites.google.com/view/portfolio-washingtonjunior/in%C3%ADcio
 
 <h3 align="left">Midias Sociais</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/washington-junior-bb1540245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/washington-junior-bb1540245/" height="30" width="40" /></a>
-</p>
+<div>
+  <a href = "mailto:washjunior4444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank</a>
+  <a href="https://www.linkedin.com/in/washington-junior-bb1540245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
 
 <h3 align="Left">Tecnologias</h3>
 <div style="display: inline_block"><br>
