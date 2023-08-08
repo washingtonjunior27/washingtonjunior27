@@ -1,8 +1,8 @@
 <h1 align="center">Olá! 👋 Meu nome é Washington Júnior</h1>
 
-<h3 align="center">Sistemas de Informação - Business Intelligence, Data Science, Web Developer.</h3>
+<h3 align="center">Sistemas de Informação - Front End, Web Developer.</h3>
   
-- 🌱 Estudando Power BI, SQL, Python.
+- 🌱 Estudando JavaScript, Type Script, React JS.
 - 📫 E-mail para contato: washjunior4444@gmail.com
 - 📄 Linkedin [https://www.linkedin.com/in/washington-junior-bb1540245/](https://www.linkedin.com/in/washington-junior-bb1540245/)
 - 🧾 Portfolio Power BI: https://sites.google.com/view/portfolio-washingtonjunior/in%C3%ADcio
@@ -22,6 +22,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 </div>
