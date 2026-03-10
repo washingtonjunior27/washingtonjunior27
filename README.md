@@ -2,7 +2,7 @@
 
 <h3 align="center">Sistemas de Informação - Front End, Web Developer.</h3>
   
-- 🌱 Estudando JavaScript, Type Script, React JS.
+- 🌱 Estudando PHP, Laravel, Livewire.
 - 📫 E-mail para contato: washjunior4444@gmail.com
 - 📄 Linkedin [https://www.linkedin.com/in/washington-junior-bb1540245/](https://www.linkedin.com/in/washington-junior-bb1540245/)
 - 💻 Portfolio Desenvolvimento Front-End: https://washington-jr-portfolio.netlify.app
@@ -22,6 +22,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg">
 </div>
