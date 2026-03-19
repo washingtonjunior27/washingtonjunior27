@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Meu nome é Washington Júnior</h1>
 
-<h3 align="center">Sistemas de Informação - Front End, Web Developer.</h3>
+<h3 align="center">Sistemas de Informação - Web Developer.</h3>
   
 - 🌱 Estudando PHP, Laravel, Livewire.
 - 📫 E-mail para contato: washjunior4444@gmail.com
