@@ -1,12 +1,14 @@
 <h1 align="center">Olá! 👋 Meu nome é Washington Júnior</h1>
 
-<h3 align="center">Sistemas de Informação - Web Developer.</h3>
+<h3 align="center">Técnico de Suporte | Desenvolvedor Web</h3>
   
-- 🌱 Estudando PHP, Laravel, Livewire.
+- 💼 Experiência como Técnico de Suporte (Active Directory, redes, GLPI, suporte ao usuário)
+- 💻 Desenvolvendo sistemas web com PHP, JavaScript e MySQL
+- 🚀 Projetos práticos: Sistema de Chamados e sistema de Petshop
+- 🌱 Estudando PHP, Laravel e Livewire
 - 📫 E-mail para contato: washjunior4444@gmail.com
-- 📄 Linkedin [https://www.linkedin.com/in/washington-junior-bb1540245/](https://www.linkedin.com/in/washington-junior-bb1540245/)
-- 💻 Portfolio Desenvolvimento Front-End: https://washington-jr-portfolio.netlify.app
-- 📈 Portfolio Power BI: https://sites.google.com/view/portfolio-washingtonjunior/in%C3%ADcio
+- 📄 Linkedin: https://www.linkedin.com/in/washington-junior-bb1540245/
+- 💻 Portfólio Front-End: https://washington-jr-portfolio.netlify.app
 
 <h3 align="left">Midias Sociais</h3>
 <div> 
@@ -23,6 +25,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Livewire" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg">
 </div>
