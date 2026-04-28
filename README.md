@@ -12,11 +12,11 @@
 
 ## 📄 Currículos
 
-<a href="Washington_Junior_WebDeveloper.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/washingtonjunior27/washingtonjunior27/main/Washington_Junior_WebDeveloper.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download-CV_Web_Developer-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Web Developer">
 </a>
 
-<a href="Washington_Junior_TI.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/washingtonjunior27/washingtonjunior27/main/Washington_Junior_TI.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download-CV_Suporte_TI-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Suporte TI">
 </a>
 
