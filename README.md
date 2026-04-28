@@ -10,6 +10,18 @@
 - 📄 Linkedin: https://www.linkedin.com/in/washington-junior-bb1540245/
 - 💻 Portfólio Front-End: https://washington-jr-portfolio.netlify.app
 
+## 📄 Currículos
+
+<a href="Washington_Junior_WebDeveloper.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download-CV_Web_Developer-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Web Developer">
+</a>
+
+<a href="Washington_Junior_TI.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download-CV_Suporte_TI-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Suporte TI">
+</a>
+
+##
+
 <h3 align="left">Midias Sociais</h3>
 <div> 
   <a href = "mailto:washjunior4444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
