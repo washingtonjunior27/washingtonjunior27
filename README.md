@@ -4,8 +4,8 @@
   
 - 💼 Experiência como Técnico de Suporte (Active Directory, redes, GLPI, suporte ao usuário)
 - 💻 Desenvolvendo sistemas web com PHP, JavaScript e MySQL
-- 🚀 Projetos práticos: Sistema de Chamados e sistema de Petshop
-- 🌱 Estudando PHP, Laravel e Livewire
+- 🚀 Projetos práticos: Sistema de Petshop, API Rest - Gerenciamento de Produtos e Autenticação de Usuários e Sistema de Chamados
+- 🌱 Estudando Laravel, Livewire, React JS
 - 📫 E-mail para contato: washjunior4444@gmail.com
 - 📄 Linkedin: https://www.linkedin.com/in/washington-junior-bb1540245/
 - 💻 Portfólio Front-End: https://washington-jr-portfolio.netlify.app
